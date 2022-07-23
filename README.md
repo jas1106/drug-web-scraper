@@ -9,3 +9,4 @@ web scraper for website that lists medications to search for adverse drug reacti
 5. insepct the login page to view the cookie that has been created in the development tools tab
 6. copy and paste the cookie into scrape.js
 7. run `node scrape.js`
+8. after running scrape.js, drugs.html will be created which is the scraped version of the website
